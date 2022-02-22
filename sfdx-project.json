@@ -6,13 +6,21 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
+            
+        {
+            
+            "path": "force-app",
+            "package": "CustomTrialPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
         }
     ],
-    "name": "extensionPackage1",
-    "namespace": "khCorePack1",
+    "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "All_new_package": "0Ho5Y0000010wY9SAI"
+        "CustomTrialPackage": "0Ho5Y0000010wYESAY"
     }
 }
