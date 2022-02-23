@@ -5,14 +5,8 @@
             "default": true,
             "package": "CustomTrialPackage",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "dependencies": [
-                {
-                    "package": "0Ho5Y0000010wYESAY"
-                }
-            ]
-        }
-        
+            "versionNumber": "0.1.0.NEXT"
+        }    
     ],
     "name": "CustomTrialPackage",
     "namespace": "",
