@@ -19,6 +19,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "CustomTrialPackage": "0Ho5Y0000010wYESAY",
+        "CustomTrialPackage": "0Ho5Y0000010wYESAY"
     }
 }
