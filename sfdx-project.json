@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "extension-pack-1",
+            "path": "force-app",
             "default": false,
-            "package": "extensionPackage1",
+            "package": "CustomTrialPackage",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "dependencies": [
