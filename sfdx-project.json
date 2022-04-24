@@ -2,7 +2,7 @@
     "packageDirectories": [
          {
             "path": "force-app",
-            "package": "TrialPackageDemo",
+            "package": "StrangePackage",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
             "default": true,
@@ -17,9 +17,9 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "52.0",
+    "sourceApiVersion": "45.0",
     "packageAliases": {
-        "TrailPackageDemo": "0Ho5Y0000010wYnSAI"
+        "StrangePackage": "0Ho5Y0000010wYsSAI"
         "CustomTrialPackage": "0Ho5Y0000010wYESAY",
     }
 }
