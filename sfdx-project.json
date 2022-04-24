@@ -1,19 +1,25 @@
 {
     "packageDirectories": [
-        {
+         {
             "path": "force-app",
             "default": true,
+            "package": "TrialPackageDemo",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "default": false,
             "package": "CustomTrialPackage",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }    
     ],
-    "name": "CustomTrialPackage",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
+        "TrailPackageDemo": "0Ho5Y0000010wYnSAI"
         "CustomTrialPackage": "0Ho5Y0000010wYESAY",
-        "CustomTrialPackage@0.0.1-0-main":"04t5Y000001nTKqQAM"
     }
 }
